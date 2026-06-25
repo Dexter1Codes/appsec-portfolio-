@@ -1,6 +1,6 @@
 # AppSec Portfolio
 
-Curated application security work — web vulnerability research, hands-on
+Curated application security work, web vulnerability research, hands-on
 exploitation, and professional assessment reporting.
 
 ## About
@@ -14,7 +14,7 @@ penetration test reports, and a repeatable web application testing methodology.
 | Section | Description |
 |---------|-------------|
 | `pentest-reports/` | Full security assessments with findings, severity ratings, and remediation guidance |
-| `vulnerability-writeups/` | Deep-dives by vulnerability class — exploitation and developer-focused fixes |
+| `vulnerability-writeups/` | Deep-dives by vulnerability class, exploitation and developer-focused fixes |
 | `methodology/` | Testing checklists and assessment workflow |
 
 ## Focus Areas
